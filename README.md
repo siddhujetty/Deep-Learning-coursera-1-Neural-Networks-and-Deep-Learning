@@ -6,7 +6,7 @@ Instructor: Andrew Ng
 
 This repo contains my work for the course. All the code base and programming assignments are taken from Neural Networks and Deep Learning course part of Deep Learning Specialization on Coursera.
 
-Currently, this repo has 3 major parts you may be interested in and I will give a list here.
+Currently, this repo has weekly programming assignments done for the course.
 
 ## Programming Assignments
 
